@@ -72,10 +72,6 @@ An OpenEnv environment that teaches AI agents that *which* mistake they make mat
 
 <img src="https://streak-stats.demolab.com/?user=abhijithbhat&theme=tokyonight&hide_border=true" width="70%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhijithbhat&theme=tokyonight&no-frame=true&row=1&column=6" width="80%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijithbhat&theme=tokyo-night&hide_border=true" width="90%" />
-
 </div>
 
 ---
