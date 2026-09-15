@@ -9,6 +9,10 @@
 
 </div>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abhijithbhat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ### 👋 About Me
@@ -79,7 +83,5 @@ An OpenEnv environment that teaches AI agents that *which* mistake they make mat
 <div align="center">
 
 📫 **Let's talk** — [LinkedIn](https://linkedin.com/in/abhijithbhat290806) · [abhijithmbhat@gmail.com](mailto:abhijithmbhat@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=abhijithbhat&icon=github&color=blue)
 
 </div>
