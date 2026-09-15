@@ -74,8 +74,7 @@ An OpenEnv environment that teaches AI agents that *which* mistake they make mat
 <img src="https://github-readme-stats.shion.dev/api?username=abhijithbhat&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abhijithbhat&theme=tokyonight&hide_border=true&layout=compact" width="49%" />
 
-<img src="https://streak-stats.demolab.com/?user=abhijithbhat&theme=tokyonight&hide_border=true" width="70%" />
-
+<img src="https://streak-stats.vercel.app/?user=abhijithbhat&theme=tokyonight&hide_border=true" width="70%" />
 </div>
 
 ---
