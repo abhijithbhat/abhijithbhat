@@ -25,7 +25,7 @@ Off the keyboard: cricket (Kohli is the GOAT, this isn't up for debate), story-d
 
 ### 🔭 Currently
 
-- 🧠 Working through **NeetCode 150/250** topic by topic — past arrays, hashing, two pointers, and sliding window; on stacks now
+- 🧠 Working through **NeetCode 150/250** topic by topic — past arrays, hashing, two pointers,sliding window and stacks on binary search now.
 - 📄 Reading one AI/ML paper a day (HuggingFace Daily Papers, arXiv, Semantic Scholar), mostly on multi-agent systems and anti-hallucination methods
 - 🤖 Building AI applications — RAG pipelines and multi-agent systems that actually reason, not just autocomplete
 - 📱 Building cross-platform apps in Flutter
