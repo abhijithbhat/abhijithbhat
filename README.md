@@ -10,7 +10,7 @@
 </div>
 
 <p align="left">
-  <img src="https://api.visitorbadge.io/api/visitors?path=abhijithbhat&label=Profile%20Views&labelColor=%23555555&countColor=%230e75b6&style=flat" alt="Profile Views" />
+  <img src="https://hits.dwyl.com/abhijithbhat/abhijithbhat.svg?style=flat-square&show=unique" alt="Profile Views" />
 </p>
 
 ---
