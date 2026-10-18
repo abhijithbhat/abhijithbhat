@@ -8,9 +8,8 @@
 [![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge)](mailto:abhijithmbhat@gmail.com)
 
 </div>
-
 <p align="left">
-  <img src="https://hits.dwyl.com/abhijithbhat/abhijithbhat.svg?style=flat-square&show=unique" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abhijithbhat&label=Profile%20Views&color=0e75b6&style=flat&v=2" alt="Profile Views" />
 </p>
 
 ---
