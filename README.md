@@ -78,6 +78,6 @@ An OpenEnv environment that teaches AI agents that *which* mistake they make mat
 
 <div align="center">
 
-📫 **Let's talk** — [LinkedIn](www.linkedin.com/in/abhijithmbhat) · [abhijithmbhat@gmail.com](mailto:abhijithmbhat@gmail.com)
+📫 **Let's talk** — [LinkedIn]([www.linkedin.com/in/abhijithmbhat](https://www.linkedin.com/in/abhijithmbhat/)) · [abhijithmbhat@gmail.com](mailto:abhijithmbhat@gmail.com)
 
 </div>
